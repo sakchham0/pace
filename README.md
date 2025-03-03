@@ -1,2 +1,2 @@
 # pacman
-#Created using JavaScript , HTML AND CSS.
+#Created using JavaScript , HTML and CSS.
